@@ -4,9 +4,9 @@ Traducción comunitaria no oficial para Star Citizen. El archivo `global.ini` es
 
 ## Versión del parche
 
-**LIVE · v1.0.13** — Actualizado el 16/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
+**LIVE · v1.0.14** — Actualizado el 17/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
 
-Esta versión añade reputación y posibles planos a las descripciones de las misiones que se pueden asociar sin ambigüedad con sus recompensas. Los planos pueden ser aleatorios y no se garantiza que se entreguen todos. El número de versión se incrementará con cada nueva publicación del parche.
+La localización añade marcadores `[BP]` y `[REP n]` a los títulos de misión cuando las recompensas son inequívocas para todas las variantes que comparten ese título. También añade reputación y posibles planos a ciertas descripciones de misión cuando pueden asociarse sin ambigüedad. Los planos pueden ser aleatorios y no se garantiza que se entreguen todos. El número de versión se incrementará con cada nueva publicación del parche.
 
 ## Instalación sencilla (LIVE)
 
@@ -26,7 +26,7 @@ Las actualizaciones del juego pueden sobrescribir el archivo o añadir cadenas n
 
 ## Datos de misiones
 
-Las descripciones de misión incluyen las recompensas de reputación y los posibles planos cuando se pueden asociar sin ambigüedad a una cadena del juego. Los planos de un grupo pueden ser aleatorios; no se garantiza que se entreguen todos. El [catálogo completo de recompensas por contrato](datos/misiones_reputacion_planos.json) y el [catálogo de componentes de nave](datos/componentes_nave.json) sirven también como referencias complementarias. Consulta [cómo leer y actualizar los catálogos](datos/README.md).
+Los títulos de misión incluyen `[BP]` si todas las variantes identificadas ofrecen planos y `[REP n]` si todas comparten la misma recompensa de reputación de facción. Las descripciones de ciertas misiones incluyen más detalles de sus recompensas. Los planos de un grupo pueden ser aleatorios; no se garantiza que se entreguen todos. El [catálogo completo de recompensas por contrato](datos/misiones_reputacion_planos.json) y el [catálogo de componentes de nave](datos/componentes_nave.json) sirven también como referencias complementarias. Consulta [cómo leer y actualizar los catálogos](datos/README.md).
 
 ## Créditos
 
