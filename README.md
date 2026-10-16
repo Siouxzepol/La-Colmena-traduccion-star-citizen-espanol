@@ -4,9 +4,9 @@ Traducción comunitaria no oficial para Star Citizen. El archivo `global.ini` es
 
 ## Versión del parche
 
-**LIVE · v1.0.8** — Actualizado el 16/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
+**LIVE · v1.0.9** — Actualizado el 17/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
 
-Esta versión corrige las etiquetas de las plantas médicas y conserva dinámicos los números de planta y habitación. El número de versión se incrementará con cada nueva publicación del parche.
+Actualización del parche v1.0.9. El número de versión se incrementará con cada nueva publicación del parche.
 
 ## Instalación sencilla (LIVE)
 
