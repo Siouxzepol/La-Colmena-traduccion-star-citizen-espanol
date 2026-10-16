@@ -18,4 +18,9 @@ Si prefieres no usar el ZIP, copia el [`global.ini`](https://github.com/Siouxzep
 
 Las actualizaciones del juego pueden sobrescribir el archivo o añadir cadenas nuevas; revisa este repositorio después de cada actualización.
 
+## Créditos
+
+Autor y responsable de la traducción: **Sioux_Atreides**  
+Clan: **La Colmena**
+
 Este proyecto es comunitario y no está afiliado a Cloud Imperium Games ni a Roberts Space Industries. Star Citizen y sus marcas pertenecen a sus respectivos titulares.
