@@ -4,9 +4,9 @@ Traducción comunitaria no oficial para Star Citizen. El archivo `global.ini` es
 
 ## Versión del parche
 
-**LIVE · v1.0.12** — Actualizado el 16/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
+**LIVE · v1.0.13** — Actualizado el 16/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
 
-Esta versión ajusta las etiquetas de compra y venta de la farmacia para que quepan en sus pestañas, y corrige el botón de compra. El número de versión se incrementará con cada nueva publicación del parche.
+Esta versión añade reputación y posibles planos a las descripciones de las misiones que se pueden asociar sin ambigüedad con sus recompensas. Los planos pueden ser aleatorios y no se garantiza que se entreguen todos. El número de versión se incrementará con cada nueva publicación del parche.
 
 ## Instalación sencilla (LIVE)
 
@@ -26,7 +26,7 @@ Las actualizaciones del juego pueden sobrescribir el archivo o añadir cadenas n
 
 ## Datos de misiones
 
-Los [datos de reputación y planos por contrato](datos/misiones_reputacion_planos.json) y el [catálogo de componentes de nave](datos/componentes_nave.json) son referencias complementarias generadas a partir de los registros de Star Citizen. Un grupo de planos puede ser aleatorio: que aparezca asociado a un contrato no significa que todos sus planos se entreguen siempre. Consulta [cómo leer y actualizar los catálogos](datos/README.md).
+Las descripciones de misión incluyen las recompensas de reputación y los posibles planos cuando se pueden asociar sin ambigüedad a una cadena del juego. Los planos de un grupo pueden ser aleatorios; no se garantiza que se entreguen todos. El [catálogo completo de recompensas por contrato](datos/misiones_reputacion_planos.json) y el [catálogo de componentes de nave](datos/componentes_nave.json) sirven también como referencias complementarias. Consulta [cómo leer y actualizar los catálogos](datos/README.md).
 
 ## Créditos
 
