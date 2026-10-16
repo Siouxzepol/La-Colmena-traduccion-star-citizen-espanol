@@ -4,9 +4,9 @@ Traducción comunitaria no oficial para Star Citizen. El archivo `global.ini` es
 
 ## Versión del parche
 
-**LIVE · v1.0.11** — Actualizado el 16/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
+**LIVE · v1.0.12** — Actualizado el 16/10/2026. [Descargar el parche](https://github.com/Siouxzepol/star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
 
-Esta versión corrige textos de alimentos y bebidas, y mejora etiquetas de interacción, destinos y lectura de contratos. El número de versión se incrementará con cada nueva publicación del parche.
+Esta versión ajusta las etiquetas de compra y venta de la farmacia para que quepan en sus pestañas, y corrige el botón de compra. El número de versión se incrementará con cada nueva publicación del parche.
 
 ## Instalación sencilla (LIVE)
 
