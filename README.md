@@ -11,4 +11,4 @@ Traducción comunitaria no oficial para Star Citizen. El archivo `global.ini` es
 
 Las actualizaciones del juego pueden sobrescribir el archivo o añadir cadenas nuevas; revisa este repositorio después de cada actualización.
 
-Este proyecto es comunitario y no está afiliado a Cloud Imperium Games ni a Roberts Space Industries. Los nombres de las naves se conservan en inglés. Star Citizen y sus marcas pertenecen a sus respectivos titulares.
+Este proyecto es comunitario y no está afiliado a Cloud Imperium Games ni a Roberts Space Industries. Star Citizen y sus marcas pertenecen a sus respectivos titulares.
