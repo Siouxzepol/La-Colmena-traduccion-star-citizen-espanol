@@ -18,6 +18,10 @@ Si prefieres no usar el ZIP, copia el [`global.ini`](https://github.com/Siouxzep
 
 Las actualizaciones del juego pueden sobrescribir el archivo o añadir cadenas nuevas; revisa este repositorio después de cada actualización.
 
+## Datos de misiones
+
+Los [datos de reputación y planos por contrato](datos/misiones_reputacion_planos.json) y el [catálogo de componentes de nave](datos/componentes_nave.json) son referencias complementarias generadas a partir de los registros de Star Citizen. Un grupo de planos puede ser aleatorio: que aparezca asociado a un contrato no significa que todos sus planos se entreguen siempre. Consulta [cómo leer y actualizar los catálogos](datos/README.md).
+
 ## Créditos
 
 Autor y responsable de la traducción: **Sioux_Atreides**  
