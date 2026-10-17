@@ -24,6 +24,16 @@ Si prefieres no usar el ZIP, copia el [`global.ini`](https://github.com/Siouxzep
 
 Las actualizaciones del juego pueden sobrescribir el archivo o añadir cadenas nuevas; revisa este repositorio después de cada actualización.
 
+## Uso con Smart Citizen (opcional)
+
+[Smart Citizen](https://github.com/Osiris-DevWorks/smart-citizen) es una aplicación independiente para gestionar la localización del juego. Si ya la utilizas, selecciona español en **Configuración → Idioma** y, en **Asignar archivo de idioma** (Map Language File), asigna a Spanish la URL directa de nuestro archivo:
+
+```text
+https://raw.githubusercontent.com/Siouxzepol/La-Colmena-traduccion-star-citizen-espanol/main/global.ini
+```
+
+Usa esta dirección del `global.ini`, no la del ZIP de la versión. Smart Citizen guarda la descarga en caché por idioma y su cuadro de configuración indica que solo vuelve a obtenerla si cambia la fuente; publicar cambios en esta misma URL no garantiza una actualización automática. Tras una actualización de Star Citizen, su documentación indica repetir **Extraer desde Data.p4k** y después **Aplicar mejoras**. Smart Citizen no crea por sí mismo nuevas traducciones ni actualiza este repositorio.
+
 ## Datos de misiones
 
 Los títulos de misión incluyen `[BP]` si todas las variantes identificadas ofrecen planos y `[REP n]` si todas comparten la misma recompensa de reputación de facción. Las descripciones de ciertas misiones incluyen más detalles de sus recompensas. Los planos de un grupo pueden ser aleatorios; no se garantiza que se entreguen todos. El [catálogo completo de recompensas por contrato](datos/misiones_reputacion_planos.json) y el [catálogo de componentes de nave](datos/componentes_nave.json) sirven también como referencias complementarias. Consulta [cómo leer y actualizar los catálogos](datos/README.md).
