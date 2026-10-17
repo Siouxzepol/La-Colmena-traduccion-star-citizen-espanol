@@ -4,7 +4,7 @@ Traducción comunitaria no oficial para Star Citizen Alpha 4.10.2 LIVE. El archi
 
 ## Compatibilidad y versión de la traducción
 
-**Juego: Alpha 4.10.2 LIVE · Traducción: v1.0.24** — Actualizado el 17/10/2026. [Descargar el parche](https://github.com/Siouxzepol/La-Colmena-traduccion-star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
+**Juego: Alpha 4.10.2 LIVE · Traducción: v1.0.25** — Actualizado el 17/10/2026. [Descargar el parche](https://github.com/Siouxzepol/La-Colmena-traduccion-star-citizen-espanol/releases/latest/download/Traduccion_SC_es-ES_LIVE.zip).
 
 La localización añade marcadores `[BP]` y `[REP n]` a los títulos de misión cuando las recompensas son inequívocas para todas las variantes que comparten ese título. También añade reputación y posibles planos a ciertas descripciones de misión cuando pueden asociarse sin ambigüedad. Los planos pueden ser aleatorios y no se garantiza que se entreguen todos. El número de versión se incrementará con cada nueva publicación del parche.
 
